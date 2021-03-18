@@ -738,7 +738,7 @@ cursor: pointer;
 /* footerbar section */
 .footer-bar{
     /* display: flex; */
-   background: url('/image/NNNN.jpg');
+   background: url('image/NNNN.jpg');
     /* background-color: #748343dc; */
 
     flex-direction: column;
