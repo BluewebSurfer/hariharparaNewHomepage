@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway');
 @import url('https://fonts.googleapis.com/css?family=Quicksand:400,700');
-
+/* font style  */
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Unicase:wght@300&display=swap');
 
 
 *{
@@ -122,6 +123,7 @@ section{
 .main-para p{
   font-size: 20px;
   color: white;
+  font-family: 'Cormorant Unicase', serif;
 
 }
 /* haed-bar  */
@@ -285,6 +287,7 @@ img {
   line-height: 1.5;
   margin-bottom: 1.25rem;    
   font-weight: 400;
+  font-family: 'Cormorant Unicase', serif;
 }
 
 /* reach section  */
@@ -311,6 +314,7 @@ img {
 }
 .reach-para p{
    font-size: 19px;
+   font-family: 'Cormorant Unicase', serif;
 }
 /* reach box  */
 .reach-box{
@@ -748,7 +752,7 @@ cursor: pointer;
     font-size: 19px;
     font-weight: bold;
     font-family: 'Noto Sans JP', sans-serif;
-    text-shadow: 1px 2px 4px rgb(0 0 0);
+    /* text-shadow: 1px 2px 4px rgb(0 0 0); */
 
 }
 .f-box{
@@ -829,7 +833,7 @@ padding: 5px;
     color: white;
 }
 .icon i{
-    margin: 7px;
+    margin: 4px;
     padding: 7px;
     text-align: center;
     font-size: 2em;
