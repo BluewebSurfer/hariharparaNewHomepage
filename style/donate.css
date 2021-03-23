@@ -83,8 +83,7 @@ margin: 12px;
 padding: 9px;
 border: 2px solid #198eee;
 height: 400px;
-/* background: url("/image/don"); */
-background-image: url('../image/Donateus.jpg');
+background: url('../image/ddonate.jpg');
 background-size:cover;
 opacity: 0.9;
 object-fit: cover;
