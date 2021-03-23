@@ -283,7 +283,7 @@ img {
 
 .card_text {
   color: #ffffff;
-  font-size: 0.875rem;
+  font-size: 1rem;
   line-height: 1.5;
   margin-bottom: 1.25rem;    
   font-weight: 400;
@@ -314,7 +314,7 @@ img {
 }
 .reach-para p{
    font-size: 19px;
-   font-family: 'Cormorant Unicase', serif;
+   /* font-family: 'Cormorant Unicase', serif;   */
 }
 /* reach box  */
 .reach-box{
@@ -511,7 +511,7 @@ img {
 
 .help-icon i{
     font-size: 2.6rem;
-    color: white;
+    color: #369ff4;
 
 }
 
@@ -738,7 +738,7 @@ cursor: pointer;
 /* footerbar section */
 .footer-bar{
     /* display: flex; */
-   background: url('image/NNNN.jpg');
+   background: url('../image/NNNN.jpg');
     /* background-color: #748343dc; */
 
     flex-direction: column;

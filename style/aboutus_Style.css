@@ -147,7 +147,7 @@ nav .logo {
     /* border: 2px solid rgb(247, 48, 48); */
     margin: 7pxx;
     padding: 5px;
-    height: 410px;
+    height: 450px;
 }
 .cont-1 p{
     margin: 3px;
@@ -367,23 +367,45 @@ nav .logo {
 
 .cont-9{
     /* border: 2px solid rgb(247, 48, 48); */
-    margin: 7pxx;
+    margin: 7px;
     padding: 5px;
-    height: 410px;
+    height: 650px;
 }
 .cont-9 p{
     margin: 3px;
     padding: 7px;
+
 }
 .cont-9 img{
-    height: 190px;
-    width: 440px;
+    height: 350px;
+    /* width: 50%; */
     margin: 2px;
     padding: 3px;
-    float: left;
+    /* float: left; */
+    object-fit: cover;
+    box-shadow: 3px 4px 4px black;
+
 }
+.cont-9 button{
+    background: #d18109;
+    color: white;
+    border: none;
+    margin: 11px auto;
+    padding: 9px;
+}
+.cont-9 button a{
+    text-decoration: none;
+    margin: 11px;
+    padding: 9px;
+    color: white;
 
-
+}
+.doc{
+    display: flex;
+    flex-direction: column;
+    margin: 17px auto;
+    justify-content: center;
+}
 
 
 /* footer section  */
@@ -747,16 +769,22 @@ footer
 }
 .cont-9  img{
     display: flex;
-    height: 177px;
-    width: 250px;
+    height: 350px;
+    /* width: 100%; */
     margin: 2px auto;
     padding: 3px;
     /* border: 2px solid greenyellow; */
     position: relative;
     top: 4%;
-    left: 22%;
+    left: 9%;
     
 }
+.doc{
+   
+    margin: 45px auto;
+  
+}
+
 
 
 /* foooter responsive  */
