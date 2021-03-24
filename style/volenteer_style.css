@@ -5,12 +5,12 @@
 *{
     margin: 0 ;
     padding: 0;
-    font-family: 'Shippori Mincho B1', serif, sans-serif;
+    font-family: 'Arial' , sans-serif;
 }
 
 
 body  {
-    font-family: 'Arial' , sans-serif;
+    /* font-family: 'Arial' , sans-serif; */
 }
 nav {
     /* background: #000; */
@@ -272,7 +272,7 @@ section{
  }
  footer
  {
-     height: 410px;
+     height: 270px;
      /* width: ; */
      background: rgb(105, 104, 104);
      /* margin: 5px; */
@@ -465,7 +465,7 @@ footer img{
 }
 footer
 {
-    height: 375px;
+    height: 250px;
     /* width: ; */
     background: rgb(105, 104, 104);
     /* margin: 5px; */
@@ -658,7 +658,7 @@ footer
     }
     footer
     {
-        height: 400px;
+        height: 250px;
         /* width: ; */
         background: rgb(105, 104, 104);
         /* margin: 5px; */
