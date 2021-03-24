@@ -71,7 +71,12 @@ nav .mainMenu .closeMenu , .icons i {
  
 nav .logo {
     margin: 6px;
+    cursor: pointer;
+}   
 
+nav .logo h1 a{
+    color: white;
+    text-decoration: none;
 }   
 
 

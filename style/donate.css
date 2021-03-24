@@ -69,6 +69,10 @@ nav .logo {
     
     cursor: pointer;
 }
+nav .logo h1 a{
+    text-decoration: none;
+    color: white;
+}
 
 
 
@@ -157,8 +161,27 @@ section p{
 .info p, .conclusion p{
     font-family: 'Slabo 27px', serif;
 }
-
-
+.Qr-code{
+    /* display: flex; */
+    margin: 17px 0;
+}
+.Qr-code h1{
+    /* display: flex; */
+    margin: 17px 11px;
+    
+}
+.qr-image{
+    /* border: 2px solid black; */
+    margin: 11px;
+}
+.qr-image img{
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+    margin: auto auto;
+    display: flex;
+    
+}
 
 
 /* footer-section  */

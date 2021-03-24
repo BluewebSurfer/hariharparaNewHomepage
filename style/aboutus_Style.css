@@ -72,6 +72,10 @@ nav .logo {
     margin: 6px;
     cursor: pointer;
 }
+nav .logo h1 a{
+    color: white;
+    text-decoration: none;
+}
 
 
 @media(max-width: 800px){

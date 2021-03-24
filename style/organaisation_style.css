@@ -74,6 +74,10 @@ nav .logo {
     
     cursor: pointer;
 }
+nav .logo h1 a{
+    color: white;
+    text-decoration: none;
+}   
 
 
 

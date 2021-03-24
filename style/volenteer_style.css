@@ -9,9 +9,7 @@
 }
 
 
-body  {
-    /* font-family: 'Arial' , sans-serif; */
-}
+
 nav {
     /* background: #000; */
     background: #2883ce;
@@ -76,6 +74,10 @@ nav .logo {
     
     cursor: pointer;
 }
+nav .logo h1 a{
+    color: white;
+    text-decoration: none;
+}   
 
 section{
     margin: 23px;

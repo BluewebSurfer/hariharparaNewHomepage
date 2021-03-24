@@ -31,3 +31,7 @@ padding: 7px;
 box-shadow: 4px 3px 11px black;
 object-fit: cover;
 }
+nav .logo h1 a{
+    color: white;
+    text-decoration: none;
+}   
